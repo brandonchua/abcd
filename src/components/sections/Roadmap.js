@@ -220,28 +220,38 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Grand Opening"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Grand Payback"
+            subtext="We pay back our moms."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Great Benefits"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Bear Uncaged"
+            subtext="We release the Caged Bears. 5 Caged Bears (tokens held back from the sale) are airdropped to random Bearholders."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Early Access"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="ABCD YouTube"
+            subtext="ABCD gets its own YouTube channel, ABCD LoFi Radio - Beats to Bears into Shitcoins To."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="New Merch"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Merch Store"
+            subtext="Member-Exclusive ABCD Merch Store gets unlocked, featuring Limited Edition tees, hoodies, and other goodies."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Holders Ranking"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Clubhouse upgrades"
+            subtext="The clubhouse image becomes interactive and the Mysterious Note becomes legible, beginning a treasure hunt. The first to solve the mystery will be rewarded 5 ETH and a Angry Bear."
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Bear Liquidity"
+            subtext="The Angry Bear liquidity pool is initiated."
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="NFT Breeding"
+            subtext="The Mutant Bear (NFT Breeding) Arcade Machine gets ﬁxed. And we cook up new ways to bear our friends."
           />
         </Items>
       </Container>

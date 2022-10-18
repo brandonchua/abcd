@@ -154,10 +154,10 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Weirdos Club.
+        Welcome To The <br /> Angry Bear Cub Den Club.
         </Title>
         <SubText>
-        The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
+        War, schmore, what a bore. Angry bear cubs hang at our club. Forests are passe. We just want to hang in our secret den. The ANGRY BEAR CUB DEN is a private collection of NFTs—unique digital collectibles. The ABCD are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
         </SubText>
         <SubTextLight>
         With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.

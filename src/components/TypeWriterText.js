@@ -77,7 +77,7 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-      Discover a new era of cool
+      @ AngryBearCubDen Discover a new era of cool
       <Typewriter
         options={{
           autoStart: true,
