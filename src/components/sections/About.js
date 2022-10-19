@@ -154,7 +154,7 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Angry Bear Cub Den Club.
+        Welcome To the <br /> Angry Bear Cub Den Club.
         </Title>
         <SubText>
         War, schmore, what a bore. Angry bear cubs hang at our club. Forests are passe. We just want to hang in our secret den. The ANGRY BEAR CUB DEN is a private collection of NFTs—unique digital collectibles. The ABCD are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.

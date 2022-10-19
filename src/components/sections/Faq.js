@@ -115,13 +115,9 @@ useLayoutEffect(() => {
 <Accordion ScrollTrigger={ScrollTrigger} title="HOW CAN I USE MY NFT?" >
 You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE ABCDs?
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE ABCs?
 " >
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in.
-  </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE FUSION PROCESS?
-" >
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem, maxime, similique neque minus aliquam dolore doloremque laboriosam, facilis quibusdam unde sint officia.
+The ANGRY BEAR CUB DEN is a private club for peace loving believers who want to make a difference. We are tired of the conflicts of nations. We want peace.
   </Accordion>
 </Box>
     </Container>
