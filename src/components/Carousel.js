@@ -21,16 +21,16 @@ import img8 from '../assets/Nfts/bighead-7.svg';
 import img9 from '../assets/Nfts/bighead-8.svg';
 import img10 from '../assets/Nfts/bighead-9.svg';
 */
-import img1 from "../../assets/Nfts/1.png";
-import img2 from "../../assets/Nfts/2.png";
-import img3 from "../../assets/Nfts/3.png";
-import img4 from "../../assets/Nfts/4.png";
-import img5 from "../../assets/Nfts/5.png";
-import img6 from "../../assets/Nfts/6.png";
-import img6 from "../../assets/Nfts/7.png";
-import img6 from "../../assets/Nfts/8.png";
-import img6 from "../../assets/Nfts/9.png";
-import img6 from "../../assets/Nfts/10.png";
+import img1 from "../assets/Nfts/1.png";
+import img2 from "../assets/Nfts/2.png";
+import img3 from "../assets/Nfts/3.png";
+import img4 from "../assets/Nfts/4.png";
+import img5 from "../assets/Nfts/5.png";
+import img6 from "../assets/Nfts/6.png";
+import img7 from "../assets/Nfts/7.png";
+import img8 from "../assets/Nfts/8.png";
+import img9 from "../assets/Nfts/9.png";
+import img10 from "../assets/Nfts/10.png";
 
 import Arrow from '../assets/Arrow.svg';
 
